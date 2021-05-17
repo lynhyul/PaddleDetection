@@ -1,5 +1,3 @@
-# PaddleDetection
-
 English | 简体中文
 
 PaddleDetection 2.0 is ready! Dygraph mode is set by default and static graph code base is here
